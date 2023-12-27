@@ -25,3 +25,18 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=o-orand&show_icons=true&include_all_commits=true&theme=catppuccin_latte" />
 </picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=o-orand&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=5&theme=great-gatsby"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=o-orand&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=5&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-orand&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=5&theme=catppuccin_latte" />
+</picture>
+
+
+
